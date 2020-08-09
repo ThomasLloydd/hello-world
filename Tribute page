@@ -1,0 +1,63 @@
+
+
+<html>
+<style>
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+body {
+  font-size: 1.6rem;
+  text-align: center;
+}
+</style>
+  </head>
+  <body>
+    <div id="main">
+      <title>Matty Healy</title>
+        <h1>Matty Healy</h1>
+
+    <div id="img-div">
+<img src="images/matty_healy.jpg"
+alt="Matty Healy" id="image"
+<br><p id="img-caption"><em>Matty Healy of the The 1975</em></p>
+      </div>
+<div id="tribute-info">
+<p>I'm in love with Jesus Christ
+<br>He's so nice
+<br>I'm in love, I'll say it twice
+<br>I'm in love (I'm in love)
+<br>I'm in love but I'm feeling low
+<br>For I am just a footprint in the snow
+<br>I'm in love with a boy I know
+<br>But that's a feeling I can never show
+<br>
+<br>Fortunately I believe
+<br>Lucky me
+<br>I'm searching for planes in the sea
+<br>And that's irony
+<br>Soil just needs water to be
+<br>And the seed
+<br>So if we turn into a tree
+<br>Can I be the leaves?
+<br>
+<br>I'm in love with the girl next door
+<br>Her name's Claire
+<br>Nice when she comes round to call
+<br>Then masturbate the second she's not there
+<br><br>Fortunately I believe
+<br>Lucky me
+<br>I'm searching for planes in the sea
+<br>And that's irony
+<br>Soil just needs water to be
+<br>And the seed
+<br>So if we turn into a tree
+<br>Can I be the leaves?</p>
+  </div>
+<a href="https://en.wikipedia.org/wiki/Matthew_Healy_of_The_1975" target="_blank" id="Tribute-Link">
+  Learn more about Matty Healy
+    </div>
+  </body>
+</html>
