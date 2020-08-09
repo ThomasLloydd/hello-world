@@ -20,7 +20,7 @@ body {
         <h1>Matty Healy</h1>
 
     <div id="img-div">
-<img src="images/matty_healy.jpg"
+<img src="https://www.nme.com/wp-content/uploads/2020/02/Matty-Healy.jpg"
 alt="Matty Healy" id="image"
 <br><p id="img-caption"><em>Matty Healy of the The 1975</em></p>
       </div>
